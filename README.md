@@ -1,1 +1,1 @@
-# Check out my website[facebook.com]!
+# Check out my [website](facebook.com)!
